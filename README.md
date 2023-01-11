@@ -1,4 +1,4 @@
-# Codeacademy-Python-Projects
+# Codeacademy: Learn Python 3 - Python Projects
 
 ## 1. Hello World
 
