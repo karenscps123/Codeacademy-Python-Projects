@@ -9,15 +9,7 @@ print ('K K  ')
 print ('K  K ')
 print ('K   K')
 
-print('''
-K   K
-K  K 
-K K  
-KK   
-K K  
-K  K 
-K   K ''')
-
+#another method to make the letter
 print('''
  CCC 
 C   C
