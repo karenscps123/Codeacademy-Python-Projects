@@ -16,3 +16,6 @@ Take a look at the complete alphabet and find your initials. Notice how each blo
 My initials are S and L, so my initials.py program should output:
 
 ![image](https://user-images.githubusercontent.com/119771144/211777444-6ecfdc6d-50fc-4155-8931-9d8082b1893d.png)
+
+## Results 
+![image](https://user-images.githubusercontent.com/119771144/211782074-f316a782-a9d8-434e-b0ca-94d0e78c137d.png)
