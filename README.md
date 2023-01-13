@@ -16,7 +16,7 @@
 2. Len's Slice
 
 ## 4. Loops 
-1. Carly's Clippers
+  Carly's Clippers
 
 ## 5. Functions
-1. Getting Ready for Physics Class
+  Getting Ready for Physics Class
