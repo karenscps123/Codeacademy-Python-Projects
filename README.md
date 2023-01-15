@@ -22,3 +22,6 @@
 ## 5. Functions
    
    Getting Ready for Physics Class
+
+## Review 1
+   Reggie Linear Regression
